@@ -1,0 +1,28 @@
+;QUESTION_ID;FIRST_SUBJECT;SECOND_SUBJECT;THIRD_SUBJECT;VALIDITY
+1;9;Engenharia de Software e Interação Humano-Computador;;;True
+2;10;Engenharia de Software e Interação Humano-Computador;;;True
+3;11;Sistemas Operacionais e Arquitetura de Computadores;;;False
+4;12;Teoria da Computabilidade e Complexidade;;;True
+5;13;Algoritmos e Estruturas de Dados;;;True
+6;14;Lógica e Matemática Discreta;;;True
+7;15;Linguagens Formais;Autômatos e Compiladores;;True
+8;16;Algoritmos e Estruturas de Dados;;;True
+9;17;Engenharia de Software e Interação Humano-Computador;;;True
+10;18;Inteligência Artificial e Computacional;;;False
+11;19;Computação Gráfica e Processamento de Imagem;;;True
+12;20;Sistemas Operacionais e Arquitetura de Computadores;;;True
+13;21;Sistemas Operacionais e Arquitetura de Computadores;;;False
+14;22;Teoria dos Grafos;;;True
+15;23;Fundamentos e Técnicas de Programação;;;True
+16;24;Banco de Dados;;;True
+17;25;Linguagens Formais;Autômatos e Compiladores;;True
+18;26;Lógica e Matemática Discreta;;;True
+19;27;Lógica e Matemática Discreta;;;True
+20;28;Teoria da Computabilidade e Complexidade;;;True
+21;29;Paradigmas de Linguagens de Programação;Lógica e Matemática Discreta;;True
+22;30;Teoria dos Grafos;Teoria da Computabilidade e Complexidade;;True
+23;31;Redes de Computadores e Sistemas Distribuídos;Probabilidade e Estatística;;False
+24;32;Lógica e Matemática Discreta;;;True
+25;33;Sistemas Operacionais e Arquitetura de Computadores;;;False
+26;34;Fundamentos e Técnicas de Programação;Sistemas Operacionais e Arquitetura de Computadores;;False
+27;35;Sistemas Digitais;;;True
