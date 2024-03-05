@@ -1,0 +1,28 @@
+﻿;QUESTION_ID;FIRST_SUBJECT;SECOND_SUBJECT;THIRD_SUBJECT;VALIDITY
+0;9;Morfofisiologia;Zoologia;;True
+1;10;Geologia;;;True
+2;11;Biologia celular e molecular;;;True
+3;12;Morfofisiologia;;;True
+4;13;Evolução;;;True
+5;14;Bioquímica;;;True
+6;15;Evolução;Zoologia;;False
+7;16;Botânica;;;False
+8;17;Botânica;Ecologia;Micologia;True
+9;18;Evolução;Zoologia;Paleontologia;True
+10;19;Biologia celular e molecular;Genética;Evolução;True
+11;20;Ecologia;;;True
+12;21;Biologia celular e molecular;;;True
+13;22;Ética e Bioética;;;False
+14;23;Paleontologia;;;True
+15;24;Microbiologia;Imunologia;Biossegurança;False
+16;25;Imunologia;;;True
+17;26;Bioquímica;Biologia celular e molecular;;True
+18;27;Genética;;;True
+19;28;Bioquímica;Biologia celular e molecular;;True
+20;29;Ecologia;;;True
+21;30;Biogeografia;;;True
+22;31;Ecologia;Bioestatística;;True
+23;32;Morfofisiologia;Biofísica;;True
+24;33;Microbiologia;Biossegurança;;True
+25;34;Evolução;;;True
+26;35;Fundamentação teórica sobre as relações entre sustentabilidade, biodiversidade e educação ambiental;;;True
