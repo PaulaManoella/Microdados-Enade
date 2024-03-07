@@ -1,0 +1,28 @@
+﻿;QUESTION_ID;FIRST_SUBJECT;SECOND_SUBJECT;THIRD_SUBJECT;VALIDITY
+0;9;Aspectos lexicais, semânticos, pragmáticos, estilísticos e discursivos;Texto, contexto e intertextualidade;Especificidade da linguagem literária;False
+1;10;Processos de aquisição, aprendizagem e ensino de línguas;;;True
+2;11;Teorias e métodos de ensino de literatura;;;True
+3;12;Gêneros discursivos e tipologias textuais;;;True
+4;13;Teorias de aquisição da linguagem oral e escrita;Processos de aquisição, aprendizagem e ensino de línguas;;True
+5;14;Processos de aquisição, aprendizagem e ensino de línguas;;;True
+6;15;Correntes teóricas e períodos literários;Conceitos de literatura e cultura;;True
+7;16;Texto, contexto e intertextualidade;Conceitos de literatura e cultura;;True
+8;17;Aspectos fonológicos, morfológicos e sintáticos;Aspectos lexicais, semânticos, pragmáticos, estilísticos e discursivos;;True
+9;18;Aspectos lexicais, semânticos, pragmáticos, estilísticos e discursivos;Gêneros discursivos e tipologias textuais;;False
+10;19;Aspectos fonológicos, morfológicos e sintáticos;Aspectos lexicais, semânticos, pragmáticos, estilísticos e discursivos;Gêneros discursivos e tipologias textuais;False
+11;20;Métodos de ensino de línguas;Processos de aquisição, aprendizagem e ensino de línguas;;True
+12;21;Gêneros discursivos e tipologias textuais;Texto, contexto e intertextualidade;;True
+13;22;Teorias de aquisição da linguagem oral e escrita;Processos de aquisição, aprendizagem e ensino de línguas;;True
+14;23;Inter-relações da literatura com outros sistemas culturais e semióticos;Texto, contexto e intertextualidade;;True
+15;24;Processos de aquisição, aprendizagem e ensino de línguas;Métodos de ensino de línguas;;True
+16;25;Gêneros discursivos e tipologias textuais;Aspectos lexicais, semânticos, pragmáticos, estilísticos e discursivos;;True
+17;26;Teorias e métodos de ensino de literatura;;;True
+18;27;Correntes teóricas e períodos literários;;;True
+19;28;Gêneros discursivos e tipologias textuais;Processos de aquisição, aprendizagem e ensino de línguas;;True
+20;29;Teorias de aquisição da linguagem oral e escrita;Teorias e correntes linguísticas;;False
+21;30;Aspectos diacrônicos e sincrônicos;Aspectos fonológicos, morfológicos e sintáticos;Aspectos lexicais, semânticos, pragmáticos, estilísticos e discursivos;True
+22;31;Gestão democrática educacional;;;True
+23;32;Planejamento, organização e gestão escolar e em outros espaços educativos;Políticas, organização e financiamento da educação brasileira;;True
+24;33;Teorias pedagógicas;Psicologia da Educação (aprendizagem e desenvolvimento);;False
+25;34;Coordenação, elaboração e avaliação de projeto político-pedagógico;Planejamento, organização e gestão escolar e em outros espaços educativos;;True
+26;35;Educação inclusiva e diversidade;;;True
