@@ -1,0 +1,28 @@
+﻿;QUESTION_ID;FIRST_SUBJECT;SECOND_SUBJECT;THIRD_SUBJECT;VALIDITY
+1;9;Mecânica;;;True
+2;10;Eletricidade e Magnetismo;;;True
+3;11;Física Ondulatória e Ótica Física;;;True
+4;12;Eletricidade e Magnetismo;;;True
+5;13;Física Quântica;;;True
+6;14;"Física Moderna; Teoria da Relatividade especial; Estrutura da Matéria";;;True
+7;15;"Física Moderna; Teoria da Relatividade especial; Estrutura da Matéria";"Física Nuclear; Física de Partículas Elementares";;True
+8;16;Mecânica;;;False
+9;17;Eletricidade e Magnetismo;;;False
+10;18;Eletricidade e Magnetismo;;;True
+11;19;Mecânica;Eletricidade e Magnetismo;;True
+12;20;"Termodinâmica; Mecânica Estatística";;;True
+13;21;"Termodinâmica; Mecânica Estatística";;;True
+14;22;"Evolução das Ideias da Física; Fundamentos históricos, filosóficos e sociológicos da Física e o ensino da Física";"Física Moderna; Teoria da Relatividade especial; Estrutura da Matéria";;True
+15;23;Física Ondulatória e Ótica Física;;;True
+16;24;"Termodinâmica; Mecânica Estatística";;;True
+17;25;"Evolução das Ideias da Física; Fundamentos históricos, filosóficos e sociológicos da Física e o ensino da Física";"Termodinâmica; Mecânica Estatística";"Física Moderna; Teoria da Relatividade especial; Estrutura da Matéria";True
+18;26;Mecânica;;;True
+19;27;Física Ondulatória e Ótica Física;;;True
+20;28;Mecânica;;;True
+21;29;"Termodinâmica; Mecânica Estatística";;;True
+22;30;"Termodinâmica; Mecânica Estatística";"Física Moderna; Teoria da Relatividade especial; Estrutura da Matéria";;True
+23;31;Física Ondulatória e Ótica Física;;;True
+24;32;Física Quântica;;;False
+25;33;"Física Moderna; Teoria da Relatividade especial; Estrutura da Matéria";"Física Nuclear; Física de Partículas Elementares";;False
+26;34;Eletricidade e Magnetismo;Física Ondulatória e Ótica Física;"Física Moderna; Teoria da Relatividade especial; Estrutura da Matéria";False
+27;35;"Termodinâmica; Mecânica Estatística";;;True
