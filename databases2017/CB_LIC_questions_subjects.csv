@@ -1,0 +1,28 @@
+﻿;QUESTION_ID;FIRST_SUBJECT;SECOND_SUBJECT;THIRD_SUBJECT;VALIDITY
+0;9;Bioquímica e Biofísica;Genética;;True
+1;10;Morfofisiologia animal;Bioquímica e Biofísica;;True
+2;11;Evolução;Zoologia;Biogeografia e Paleontologia;True
+3;12;Bioquímica e Biofísica;Biologia Celular;Ambiente e Saúde;True
+4;13;Zoologia;Botânica;Ecologia;True
+5;14;Evolução;Zoologia;Biogeografia e Paleontologia;True
+6;15;Ambiente e Saúde;Bioética;;True
+7;16;Morfofisiologia animal;Biologia Celular;Ambiente e Saúde;False
+8;17;Ecologia;Bioestatística;;True
+9;18;Microbiologia, Imunologia e Parasitologia;Ambiente e Saúde;;False
+10;19;Bioética;;;True
+11;20;Bioquímica e Biofísica;Botânica;Ambiente e Saúde;True
+12;21;Microbiologia, Imunologia e Parasitologia;Genética;Ambiente e Saúde;True
+13;22;Ecologia;Educação Ambiental;;True
+14;23;Morfofisiologia animal;Evolução;Zoologia;True
+15;24;Bioestatística;Legislação e políticas públicas educacionais;;False
+16;25;Planejamento e métodos em pesquisa educacional;Didática para o ensino de Ciências e de Biologia;;False
+17;26;Planejamento e métodos em pesquisa educacional;Didática para o ensino de Ciências e de Biologia;;True
+18;27;Didática para o ensino de Ciências e de Biologia;Currículo no ensino de Ciências e de Biologia;;True
+19;28;Bioética;Legislação e políticas públicas educacionais;Currículo no ensino de Ciências e de Biologia;True
+20;29;Planejamento e métodos em pesquisa educacional;Didática para o ensino de Ciências e de Biologia;;True
+21;30;Legislação e políticas públicas educacionais;Didática para o ensino de Ciências e de Biologia;Currículo no ensino de Ciências e de Biologia;False
+22;31;Teorias pedagógicas e Didática;Planejamento e avaliação educacional;Planejamento e avaliação do ensino e da aprendizagem;True
+23;32;Diferença, Diversidade e Educação inclusiva;Libras;;True
+24;33;Diferença, Diversidade e Educação inclusiva;;;True
+25;34;Psicologia da Educação;;;True
+26;35;Teorias pedagógicas e Didática;Planejamento e avaliação do ensino e da aprendizagem;Conteúdos e metodologias específicas do ensino de: Língua Portuguesa, Matemática, Ciências, Geografia, História, Artes e Educação Física;True
