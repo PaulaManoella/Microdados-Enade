@@ -1,0 +1,28 @@
+﻿;QUESTION_ID;FIRST_SUBJECT;SECOND_SUBJECT;THIRD_SUBJECT;VALIDITY
+0;9;Bioquímica e Biofísica;Genética;;True
+1;10;Morfofisiologia animal;Bioquímica e Biofísica;;True
+2;11;Evolução;Zoologia;Biogeografia e Paleontologia;True
+3;12;Bioquímica e Biofísica;Biologia Celular;Ambiente e Saúde;True
+4;13;Zoologia;Botânica;Ecologia;True
+5;14;Evolução;Zoologia;Biogeografia e Paleontologia;True
+6;15;Ambiente e Saúde;Bioética;;True
+7;16;Morfofisiologia animal;Biologia Celular;Ambiente e Saúde;False
+8;17;Ecologia;Bioestatística;;True
+9;18;Microbiologia, Imunologia e Parasitologia;Ambiente e Saúde;;False
+10;19;Bioética;;;True
+11;20;Bioquímica e Biofísica;Botânica;Ambiente e Saúde;True
+12;21;Microbiologia, Imunologia e Parasitologia;Genética;Ambiente e Saúde;True
+13;22;Ecologia;Educação Ambiental;;True
+14;23;Morfofisiologia animal;Evolução;Zoologia;True
+15;24;Morfofisiologia animal;Bioquímica e Biofísica;Zoologia;False
+16;25;Microbiologia, Imunologia e Parasitologia;Ambiente e Saúde;Bioestatística;False
+17;26;Genética;Biossegurança;Legislação e políticas públicas aplicadas às Ciências Biológicas;True
+18;27;Ecologia;Ambiente e Saúde;Legislação e políticas públicas aplicadas às Ciências Biológicas;True
+19;28;Morfofisiologia animal;Genética;Evolução;False
+20;29;Ecologia;Ambiente e Saúde;Legislação e políticas públicas aplicadas às Ciências Biológicas;True
+21;30;Bioquímica e Biofísica;Botânica;Ecologia;True
+22;31;Microbiologia, Imunologia e Parasitologia;Ambiente e Saúde;;True
+23;32;Zoologia;Ecologia;Ambiente e Saúde;True
+24;33;Biologia Celular;Genética;Ambiente e Saúde;False
+25;34;Genética;Ambiente e Saúde;Planejamento experimental e métodos em pesquisa;True
+26;35;Ecologia;Ambiente e Saúde;Planejamento experimental e métodos em pesquisa;True
