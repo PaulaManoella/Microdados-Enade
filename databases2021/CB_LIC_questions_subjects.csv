@@ -1,0 +1,28 @@
+﻿;QUESTION_ID;FIRST_SUBJECT;SECOND_SUBJECT;THIRD_SUBJECT;VALIDITY
+0;9;Biologia Celular e do Desenvolvimento;;;True
+1;10;Bioética;;;True
+2;11;Morfofisiologia animal;;;True
+3;12;Ecologia e Biodiversidade;;;True
+4;13;Microbiologia, Imunologia e Parasitologia;Genética e Biotecnologia;;False
+5;14;Bioestatística;;;True
+6;15;Educação Ambiental;;;True
+7;16;Zoologia;Botânica;;True
+8;17;Evolução;;;True
+9;18;Biologia da Conservação e Sustentabilidade;;;True
+10;19;Biologia Celular e do Desenvolvimento;;;False
+11;20;Evolução;Ecologia e Biodiversidade;;True
+12;21;Morfofisiologia animal;;;False
+13;22;Microbiologia, Imunologia e Parasitologia;;;False
+14;23;Evolução;;;False
+15;24;Ambiente e Saúde;;;False
+16;25;Genética e Biotecnologia;;;True
+17;26;Genética e Biotecnologia;;;False
+18;27;Currículo no ensino de Ciências e de Biologia;;;True
+19;28;Ecologia e Biodiversidade;;;True
+20;29;Ambiente e Saúde;;;True
+21;30;Biogeografia e Paleontologia;;;True
+22;31;Diferença, Diversidade, Educação especial e inclusiva;Políticas e práticas de articulação escola-comunidade e movimentos sociais;;True
+23;32;Teorias pedagógicas;;;True
+24;33;Cultura Surda e Libras;;;True
+25;34;Planejamento, organização e gestão democrática educacional em espaço escolar e não escolar;;;True
+26;35;Tecnologias da comunicação e informação nas práticas educativas;;;True
