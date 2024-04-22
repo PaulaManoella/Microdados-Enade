@@ -1,0 +1,28 @@
+﻿;QUESTION_ID;FIRST_SUBJECT;SECOND_SUBJECT;THIRD_SUBJECT;VALIDITY
+0;9;Economia Brasileira Contemporânea;;;True
+1;10;Economia Brasileira Contemporânea;Contabilidade Social;;False
+2;11;Econometria;;;True
+3;12;Economia Política;História do Pensamento Econômico;;True
+4;13;Economia Monetária e Financeira;;;False
+5;14;Economia Internacional;;;True
+6;15;Econometria;;;True
+7;16;Economia Brasileira Contemporânea;Economia Monetária e Financeira;;True
+8;17;Economia do Setor Público;Microeconomia;;True
+9;18;Formação Econômica do Brasil;;;False
+10;19;Economia Brasileira Contemporânea;;;True
+11;20;Macroeconomia;Desenvolvimento Socioeconômico;;True
+12;21;Microeconomia;;;True
+13;22;Contabilidade Social;;;True
+14;23;Economia Internacional;História Econômica Geral;;False
+15;24;Economia Monetária e Financeira;Economia Internacional;;True
+16;25;Desenvolvimento Socioeconômico;;;True
+17;26;Macroeconomia;;;True
+18;27;Macroeconomia;;;True
+19;28;Estatística Aplicada à Economia;Microeconomia;;True
+20;29;Microeconomia;;;True
+21;30;Desenvolvimento Socioeconômico;Economia Industrial, da Tecnologia e Inovação;História do Pensamento Econômico;True
+22;31;História do Pensamento Econômico;Economia Política;Macroeconomia;True
+23;32;Microeconomia;Matemática Aplicada à Economia;;True
+24;33;Economia Internacional;Desenvolvimento Socioeconômico;;True
+25;34;Macroeconomia;História do Pensamento Econômico;Economia Monetária e Financeira;True
+26;35;Macroeconomia;;;False
