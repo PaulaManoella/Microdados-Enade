@@ -1,30 +1,30 @@
 ﻿;QUESTION_ID;FIRST_SUBJECT;SECOND_SUBJECT;THIRD_SUBJECT;VALIDITY
-0;10;Física e ciência dos materiais;;;
-1;11;Matemática discreta e teoria dos grafos;Sistemas de comunicação e redes de computadores;;
-2;12;Matemática discreta e teoria dos grafos;Sistemas distribuídos e processamento paralelo;;
-3;13;Circuitos elétricos e eletrônicos;Matemática discreta e teoria dos grafos;;
-4;14;Algoritmos e estruturas de dados ;Fundamentos de programação e linguagens de programação;;
-5;15;Fundamentos de programação e linguagens de programação;;;
-6;16;Fundamentos de programação e linguagens de programação;Sistemas digitais e sistemas embarcados;;
-7;17;Matemática discreta e teoria dos grafos;Pesquisa operacional e otimização;;
-8;18;Algoritmos e estruturas de dados;;;
-9;19;Linguagens formais e autômatos;;;
-10;20;Sistemas distribuídos e processamento paralelo;Segurança de sistemas de computação;;
-11;21;Interação humanocomputador;;;
-12;22;Banco de dados;;;
-13;23;Circuitos elétricos e eletrônicos ;Processamento de sinais;;
-14;24;Sistemas digitais e sistemas embarcados;;;
-15;25;Sistemas digitais e sistemas embarcados ;Fundamentos de programação e linguagens de programação;;
-16;26;Sistemas distribuídos e processamento paralelo ;Sistemas operacionais;;
-17;27;Sistemas distribuídos e processamento paralelo ;Sistemas operacionais;;
-18;28; Arquitetura de computadores;Sistemas operacionais;;
-19;29;Fundamentos de programação e linguagens de programação ;Ciência de dados;;
-20;30;Sistemas distribuídos e processamento paralelo ;Fundamentos de programação e linguagens de programação;;
-21;31;Processamento de sinais;;;
-22;32;Inteligência artificial;Pesquisa operacional e otimização;;
-23;33;Automação e sistemas de controle ;Fundamentos de programação e linguagens de programação;;
-24;34;Sistemas de comunicação e redes de computadores ;Algoritmos e estruturas de dados;;
-25;35;Sistemas de comunicação e redes de computadores;;;
-26;36;Sistemas distribuídos e processamento paralelo;;;
-27;37;Segurança de sistemas de computação;;;
-28;38;Engenharia de software ;Sistemas distribuídos e processamento paralelo;;
+0;10;Física e ciência dos materiais;;;True
+1;11;Matemática discreta e teoria dos grafos;Sistemas de comunicação e redes de computadores;;True
+2;12;Matemática discreta e teoria dos grafos;Sistemas distribuídos e processamento paralelo;;True
+3;13;Circuitos elétricos e eletrônicos;Matemática discreta e teoria dos grafos;;True
+4;14;Algoritmos e estruturas de dados ;Fundamentos de programação e linguagens de programação;;True
+5;15;Fundamentos de programação e linguagens de programação;;;True
+6;16;Fundamentos de programação e linguagens de programação;Sistemas digitais e sistemas embarcados;;True
+7;17;Matemática discreta e teoria dos grafos;Pesquisa operacional e otimização;;False
+8;18;Algoritmos e estruturas de dados;;;False
+9;19;Linguagens formais e autômatos;;;False
+10;20;Sistemas distribuídos e processamento paralelo;Segurança de sistemas de computação;;True
+11;21;Interação humanocomputador;;;True
+12;22;Banco de dados;;;True
+13;23;Circuitos elétricos e eletrônicos ;Processamento de sinais;;True
+14;24;Sistemas digitais e sistemas embarcados;;;True
+15;25;Sistemas digitais e sistemas embarcados ;Fundamentos de programação e linguagens de programação;;False
+16;26;Sistemas distribuídos e processamento paralelo ;Sistemas operacionais;;True
+17;27;Sistemas distribuídos e processamento paralelo ;Sistemas operacionais;;True
+18;28; Arquitetura de computadores;Sistemas operacionais;;True
+19;29;Fundamentos de programação e linguagens de programação ;Ciência de dados;;True
+20;30;Sistemas distribuídos e processamento paralelo ;Fundamentos de programação e linguagens de programação;;True
+21;31;Processamento de sinais;;;True
+22;32;Inteligência artificial;Pesquisa operacional e otimização;;True
+23;33;Automação e sistemas de controle ;Fundamentos de programação e linguagens de programação;;True
+24;34;Sistemas de comunicação e redes de computadores ;Algoritmos e estruturas de dados;;False
+25;35;Sistemas de comunicação e redes de computadores;;;True
+26;36;Sistemas distribuídos e processamento paralelo;;;True
+27;37;Segurança de sistemas de computação;;;True
+28;38;Engenharia de software ;Sistemas distribuídos e processamento paralelo;;True

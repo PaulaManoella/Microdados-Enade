@@ -1,30 +1,30 @@
 ﻿;QUESTION_ID;FIRST_SUBJECT;SECOND_SUBJECT;THIRD_SUBJECT;VALIDITY
-0;10;Ecologia e ecossistemas florestais;;;
-1;11;Gestão de recursos naturais renováveis;;;
-2;12;Sementes e viveiros florestais;;;
-3;13;Recuperação de ecossistemas florestais degradados;;;
-4;14;Sementes e viveiros florestais;;;
-5;15;Sistemas e técnicas silviculturais;Sistemas e técnicas silviculturais;;
-6;16;Sistemas e técnicas silviculturais;;;
-7;17;Experimentação florestal;;;
-8;18;Melhoramento e biotecnologia florestal;;;
-9;19;Anatomia e propriedades físicas, químicas e mecânicas da madeira;;;
-10;20;Industrialização de produtos florestais;;;
-11;21;Proteção florestal;;;
-12;22;Geoprocessamento aplicado à Engenharia Florestal;Proteção florestal;;
-13;23;Geoprocessamento aplicado à Engenharia Florestal;;;
-14;24;Manejo de bacias hidrográficas;;;
-15;25;Dendrometria e inventário florestal;;;
-16;26;Dendrometria e inventário florestal;;;
-17;27;Manejo florestal;;;
-18;28;Estradas, colheita e transporte florestal;;;
-19;29;Morfologia, sistemática e dendrologia;;;
-20;30;Economia, administração e marketing florestal;;;
-21;31;Solos e nutrição florestal;;;
-22;32;Meteorologia e climatologia;;;
-23;33;Industrialização de produtos florestais;;;
-24;34;Anatomia e propriedades físicas, químicas e mecânicas da madeira;;;
-25;35;Recursos energéticos florestais;;;
-26;36;Dendrometria e inventário florestal;;;
-27;37;Sistemas e técnicas silviculturais;;;
-28;38;Comunicação e extensão rural;;;
+0;10;Ecologia e ecossistemas florestais;;;True
+1;11;Gestão de recursos naturais renováveis;;;True
+2;12;Sementes e viveiros florestais;;;True
+3;13;Recuperação de ecossistemas florestais degradados;;;True
+4;14;Sementes e viveiros florestais;;;True
+5;15;Sistemas e técnicas silviculturais;Sistemas e técnicas silviculturais;;True
+6;16;Sistemas e técnicas silviculturais;;;False
+7;17;Experimentação florestal;;;True
+8;18;Melhoramento e biotecnologia florestal;;;True
+9;19;Anatomia e propriedades físicas, químicas e mecânicas da madeira;;;True
+10;20;Industrialização de produtos florestais;;;False
+11;21;Proteção florestal;;;True
+12;22;Geoprocessamento aplicado à Engenharia Florestal;Proteção florestal;;True
+13;23;Geoprocessamento aplicado à Engenharia Florestal;;;True
+14;24;Manejo de bacias hidrográficas;;;True
+15;25;Dendrometria e inventário florestal;;;True
+16;26;Dendrometria e inventário florestal;;;True
+17;27;Manejo florestal;;;True
+18;28;Estradas, colheita e transporte florestal;;;False
+19;29;Morfologia, sistemática e dendrologia;;;True
+20;30;Economia, administração e marketing florestal;;;True
+21;31;Solos e nutrição florestal;;;True
+22;32;Meteorologia e climatologia;;;True
+23;33;Industrialização de produtos florestais;;;True
+24;34;Anatomia e propriedades físicas, químicas e mecânicas da madeira;;;True
+25;35;Recursos energéticos florestais;;;True
+26;36;Dendrometria e inventário florestal;;;True
+27;37;Sistemas e técnicas silviculturais;;;True
+28;38;Comunicação e extensão rural;;;True

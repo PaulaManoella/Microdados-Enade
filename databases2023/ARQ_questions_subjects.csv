@@ -1,30 +1,30 @@
-Ôªø;QUESTION_ID;FIRST_SUBJECT;SECOND_SUBJECT;THIRD_SUBJECT;VALIDITY
-0;10;Est√©tica e Hist√≥ria das Artes;;;
-1;11;Desenho e Meios de representa√ß√£o e express√£o;;;
-2;12;Estudos sociais, econ√¥micos e ambientais;;;
-3;13;Sustentabilidade;;;
-4;14;Pol√≠ticas p√∫blicas e habitacionais;;;
-5;15;Planejamento urbano e regional;;;
-6;16;Teoria e Hist√≥ria da Arquitetura, do Urbanismo e do Paisagismo;;;
-7;17;Projeto de arquitetura;;;
-8;18;Projeto de arquitetura;;;
-9;19;Projeto de Urbanismo;;;
-10;20;Projeto de Paisagismo;;;
-11;21;Pol√≠ticas p√∫blicas e habitacionais;;;
-12;22;Projeto de Arquitetura de Interiores;;;
-13;23;Tecnologia da constru√ß√£o;;;
-14;24;Tecnologia da constru√ß√£o;;;
-15;25;Infraestrutura urbana;;;
-16;26;Sistemas estruturais;;;
-17;27;Gest√£o e coordena√ß√£o de projetos;;;
-18;28;Gest√£o e coordena√ß√£o de obras;;;
-19;29;Conforto ambiental e efici√™ncia energ√©tica;;;
-20;30;Mobilidade urbana;;;
-21;31;Teoria e Hist√≥ria da Arquitetura, do Urbanismo e do Paisagismo;;;
-22;32;Desenho universal e acessibilidade;;;
-23;33;Desenho universal e acessibilidade;;;
-24;34;Patrim√¥nio cultural e t√©cnicas retrospectivas;;;
-25;35;Inform√°tica aplicada a Arquitetura e Urbanismo;;;
-26;36;Gest√£o e coordena√ß√£o de projetos;Inform√°tica aplicada a arquitetura e urbanismo;;
-27;37;Topografia;;;
-28;38;Estudos sociais, econ√¥micos e ambientais;Projeto de arquitetura;;
+	QUESTION_ID	FIRST_SUBJECT	SECOND_SUBJECT	THIRD_SUBJECT	VALIDITY
+0	10	EstÈtica e HistÛria das Artes			True
+1	11	Desenho e Meios de representaÁ„o e express„o			True
+2	12	Estudos sociais, econÙmicos e ambientais			False
+3	13	Sustentabilidade			True
+4	14	PolÌticas p˙blicas e habitacionais			True
+5	15	Planejamento urbano e regional			True
+6	16	Teoria e HistÛria da Arquitetura, do Urbanismo e do Paisagismo			True
+7	17	Projeto de arquitetura			True
+8	18	Projeto de arquitetura			True
+9	19	Projeto de Urbanismo			True
+10	20	Projeto de Paisagismo			True
+11	21	PolÌticas p˙blicas e habitacionais			True
+12	22	Projeto de Arquitetura de Interiores			False
+13	23	Tecnologia da construÁ„o			False
+14	24	Tecnologia da construÁ„o			True
+15	25	Infraestrutura urbana			True
+16	26	Sistemas estruturais			True
+17	27	Gest„o e coordenaÁ„o de projetos			True
+18	28	Gest„o e coordenaÁ„o de obras			True
+19	29	Conforto ambiental e eficiÍncia energÈtica			False
+20	30	Mobilidade urbana			True
+21	31	Teoria e HistÛria da Arquitetura, do Urbanismo e do Paisagismo			False
+22	32	Desenho universal e acessibilidade			True
+23	33	Desenho universal e acessibilidade			True
+24	34	PatrimÙnio cultural e tÈcnicas retrospectivas			True
+25	35	Inform·tica aplicada a Arquitetura e Urbanismo			True
+26	36	Gest„o e coordenaÁ„o de projetos	Inform·tica aplicada a arquitetura e urbanismo		True
+27	37	Topografia			True
+28	38	Estudos sociais, econÙmicos e ambientais	Projeto de arquitetura		True

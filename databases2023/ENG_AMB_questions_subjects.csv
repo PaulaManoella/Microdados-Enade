@@ -1,30 +1,30 @@
 ﻿;QUESTION_ID;FIRST_SUBJECT;SECOND_SUBJECT;THIRD_SUBJECT;VALIDITY
-0;10;Climatologia e meteorologia;;;
-1;11;Gestão de resíduos sólidos;;;
-2;12;Saúde ambiental;;;
-3;13;Planejamento e gestão dos territórios urbano, rural e das unidades de conservação;;;
-4;14;Ciências do ambiente;Climatologia e meteorologia;;
-5;15;Planejamento e gestão ambiental nos setores público e privado;;;
-6;16;Qualidade do solo, do ar e da água;Química ambiental;;
-7;17;Avaliação de impactos e de riscos ambientais;Planejamento e gestão ambiental nos setores público e privado;;
-8;18;Expressão gráfica de projetos;Geologia e geotecnia ambiental;;
-9;19;Cartografia, geoprocessamento e sensoriamento remoto;Planejamento e gestão dos territórios urbano, rural e das unidades de conservação;;
-10;20;Climatologia e meteorologia;Ciências do ambiente;;
-11;21;Hidráulica;Fenômenos de transporte;;
-12;22;Energia e fontes renováveis;Sistemas de coleta e tratamento de efluentes;;
-13;23;Sistemas de abastecimento e de tratamento de águas;Química ambiental;;
-14;24;Manejo de águas pluviais e drenagem;Estatística;;
-15;25;Hidrologia;Hidráulica;;
-16;26;Hidrologia;Manejo de águas pluviais e drenagem;;
-17;27;Avaliação de impactos e de riscos ambientais;Qualidade do solo, do ar e da água;;
-18;28;Planejamento e gestão ambiental nos setores público e privado;;;
-19;29;Modelagem de sistemas ambientais;Ciências do ambiente;;
-20;30;Recuperação e remediação de áreas degradadas;Qualidade do solo, do ar e da água;;
-21;31;Avaliação de impactos e de riscos ambientais;;;
-22;32;Gestão de recursos hídricos;;;
-23;33;Qualidade do solo, do ar e da água;Saúde ambiental;;
-24;34;Ecologia e microbiologia aplicadas;Química ambiental;;
-25;35;Sistemas de coleta e tratamento de efluentes;;;
-26;36;Gestão de resíduos sólidos;Ciências do ambiente;;
-27;37;Gestão de resíduos sólidos;;;
-28;38;Cartografia, geoprocessamento e sensoriamento remoto;Ecologia e microbiologia aplicadas;;
+0;10;Climatologia e meteorologia;;;True
+1;11;Gestão de resíduos sólidos;;;False
+2;12;Saúde ambiental;;;True
+3;13;Planejamento e gestão dos territórios urbano, rural e das unidades de conservação;;;False
+4;14;Ciências do ambiente;Climatologia e meteorologia;;True
+5;15;Planejamento e gestão ambiental nos setores público e privado;;;True
+6;16;Qualidade do solo, do ar e da água;Química ambiental;;True
+7;17;Avaliação de impactos e de riscos ambientais;Planejamento e gestão ambiental nos setores público e privado;;True
+8;18;Expressão gráfica de projetos;Geologia e geotecnia ambiental;;True
+9;19;Cartografia, geoprocessamento e sensoriamento remoto;Planejamento e gestão dos territórios urbano, rural e das unidades de conservação;;False
+10;20;Climatologia e meteorologia;Ciências do ambiente;;True
+11;21;Hidráulica;Fenômenos de transporte;;False
+12;22;Energia e fontes renováveis;Sistemas de coleta e tratamento de efluentes;;True
+13;23;Sistemas de abastecimento e de tratamento de águas;Química ambiental;;True
+14;24;Manejo de águas pluviais e drenagem;Estatística;;False
+15;25;Hidrologia;Hidráulica;;False
+16;26;Hidrologia;Manejo de águas pluviais e drenagem;;True
+17;27;Avaliação de impactos e de riscos ambientais;Qualidade do solo, do ar e da água;;True
+18;28;Planejamento e gestão ambiental nos setores público e privado;;;True
+19;29;Modelagem de sistemas ambientais;Ciências do ambiente;;False
+20;30;Recuperação e remediação de áreas degradadas;Qualidade do solo, do ar e da água;;True
+21;31;Avaliação de impactos e de riscos ambientais;;;False
+22;32;Gestão de recursos hídricos;;;True
+23;33;Qualidade do solo, do ar e da água;Saúde ambiental;;True
+24;34;Ecologia e microbiologia aplicadas;Química ambiental;;True
+25;35;Sistemas de coleta e tratamento de efluentes;;;True
+26;36;Gestão de resíduos sólidos;Ciências do ambiente;;True
+27;37;Gestão de resíduos sólidos;;;True
+28;38;Cartografia, geoprocessamento e sensoriamento remoto;Ecologia e microbiologia aplicadas;;True

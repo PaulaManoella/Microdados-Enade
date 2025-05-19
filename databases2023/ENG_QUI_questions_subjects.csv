@@ -1,30 +1,30 @@
 ﻿;QUESTION_ID;FIRST_SUBJECT;SECOND_SUBJECT;THIRD_SUBJECT;VALIDITY
-0;10;Operações unitárias de transferência de quantidade de movimento, de calor e de massa;;;
-1;11;Modelagem, simulação, otimização e controle de processos;;;
-2;12;Operações unitárias de transferência de quantidade de movimento, de calor e de massa;;;
-3;13;Operações unitárias de transferência de quantidade de movimento, de calor e de massa;;;
-4;14;Balanços de massa e energia;;;
-5;15;Transferência de quantidade de movimento, de calor e de massa;;;
-6;16;Projeto e segurança de Processos;;;
-7;17;Eletricidade aplicada;;;
-8;18;Química;;;
-9;19;Modelagem, simulação, otimização e controle de processos;;;
-10;20;Transferência de quantidade de movimento, de calor e de massa;;;
-11;21;Metodologia científica e tecnológica;;;
-12;22;Balanços de massa e energia;;;
-13;23;Transferência de quantidade de movimento, de calor e de massa;;;
-14;24;Transferência de quantidade de movimento, de calor e de massa;;;
-15;25;Modelagem, simulação, otimização e controle de processos;;;
-16;26;Termodinâmica;;;
-17;27;Engenharia das reações químicas;;;
-18;28;Projeto e segurança de processos;;;
-19;29;Engenharia de bioprocessos;;;
-20;30;Transferência de quantidade de movimento, de calor e de massa;;;
-21;31;Química;;;
-22;32;Termodinâmica;;;
-23;33;Mecânica dos sólidos;;;
-24;34;Algoritimos e programação;;;
-25;35;Transferência de quantidade de movimento, de calor e de massa;;;
-26;36;Engenharia de meio ambiente;;;
-27;37;Engenharia de bioprocessos;;;
-28;38;Estatística;;;
+0;10;Operações unitárias de transferência de quantidade de movimento, de calor e de massa;;;True
+1;11;Modelagem, simulação, otimização e controle de processos;;;False
+2;12;Operações unitárias de transferência de quantidade de movimento, de calor e de massa;;;True
+3;13;Operações unitárias de transferência de quantidade de movimento, de calor e de massa;;;True
+4;14;Balanços de massa e energia;;;True
+5;15;Transferência de quantidade de movimento, de calor e de massa;;;False
+6;16;Projeto e segurança de Processos;;;True
+7;17;Eletricidade aplicada;;;True
+8;18;Química;;;True
+9;19;Modelagem, simulação, otimização e controle de processos;;;True
+10;20;Transferência de quantidade de movimento, de calor e de massa;;;False
+11;21;Metodologia científica e tecnológica;;;True
+12;22;Balanços de massa e energia;;;True
+13;23;Transferência de quantidade de movimento, de calor e de massa;;;True
+14;24;Transferência de quantidade de movimento, de calor e de massa;;;True
+15;25;Modelagem, simulação, otimização e controle de processos;;;True
+16;26;Termodinâmica;;;True
+17;27;Engenharia das reações químicas;;;True
+18;28;Projeto e segurança de processos;;;True
+19;29;Engenharia de bioprocessos;;;True
+20;30;Transferência de quantidade de movimento, de calor e de massa;;;True
+21;31;Química;;;True
+22;32;Termodinâmica;;;False
+23;33;Mecânica dos sólidos;;;True
+24;34;Algoritimos e programação;;;True
+25;35;Transferência de quantidade de movimento, de calor e de massa;;;True
+26;36;Engenharia de meio ambiente;;;False
+27;37;Engenharia de bioprocessos;;;True
+28;38;Estatística;;;False
