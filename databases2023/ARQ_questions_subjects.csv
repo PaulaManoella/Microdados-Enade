@@ -1,30 +1,30 @@
-	QUESTION_ID	FIRST_SUBJECT	SECOND_SUBJECT	THIRD_SUBJECT	VALIDITY
-0	10	Estética e História das Artes			True
-1	11	Desenho e Meios de representação e expressão			True
-2	12	Estudos sociais, econômicos e ambientais			False
-3	13	Sustentabilidade			True
-4	14	Políticas públicas e habitacionais			True
-5	15	Planejamento urbano e regional			True
-6	16	Teoria e História da Arquitetura, do Urbanismo e do Paisagismo			True
-7	17	Projeto de arquitetura			True
-8	18	Projeto de arquitetura			True
-9	19	Projeto de Urbanismo			True
-10	20	Projeto de Paisagismo			True
-11	21	Políticas públicas e habitacionais			True
-12	22	Projeto de Arquitetura de Interiores			False
-13	23	Tecnologia da construção			False
-14	24	Tecnologia da construção			True
-15	25	Infraestrutura urbana			True
-16	26	Sistemas estruturais			True
-17	27	Gestão e coordenação de projetos			True
-18	28	Gestão e coordenação de obras			True
-19	29	Conforto ambiental e eficiência energética			False
-20	30	Mobilidade urbana			True
-21	31	Teoria e História da Arquitetura, do Urbanismo e do Paisagismo			False
-22	32	Desenho universal e acessibilidade			True
-23	33	Desenho universal e acessibilidade			True
-24	34	Patrimônio cultural e técnicas retrospectivas			True
-25	35	Informática aplicada a Arquitetura e Urbanismo			True
-26	36	Gestão e coordenação de projetos	Informática aplicada a arquitetura e urbanismo		True
-27	37	Topografia			True
-28	38	Estudos sociais, econômicos e ambientais	Projeto de arquitetura		True
+ï»¿;QUESTION_ID;FIRST_SUBJECT;SECOND_SUBJECT;THIRD_SUBJECT;VALIDITY
+0;10;EstÃ©tica e HistÃ³ria das Artes;;;True
+1;11;Desenho e Meios de representaÃ§Ã£o e expressÃ£o;;;True
+2;12;Estudos sociais, econÃ´micos e ambientais;;;False
+3;13;Sustentabilidade;;;True
+4;14;PolÃ­ticas pÃºblicas e habitacionais;;;True
+5;15;Planejamento urbano e regional;;;True
+6;16;Teoria e HistÃ³ria da Arquitetura, do Urbanismo e do Paisagismo;;;True
+7;17;Projeto de arquitetura;;;True
+8;18;Projeto de arquitetura;;;True
+9;19;Projeto de Urbanismo;;;True
+10;20;Projeto de Paisagismo;;;True
+11;21;PolÃ­ticas pÃºblicas e habitacionais;;;True
+12;22;Projeto de Arquitetura de Interiores;;;False
+13;23;Tecnologia da construÃ§Ã£o;;;False
+14;24;Tecnologia da construÃ§Ã£o;;;True
+15;25;Infraestrutura urbana;;;True
+16;26;Sistemas estruturais;;;True
+17;27;Sistemas estruturais;;;True
+18;28;GestÃ£o e coordenaÃ§Ã£o de obras;;;True
+19;29;Conforto ambiental e eficiÃªncia energÃ©tica;;;False
+20;30;Mobilidade urbana;;;True
+21;31;Teoria e HistÃ³ria da Arquitetura, do Urbanismo e do Paisagismo;;;False
+22;32;Desenho universal e acessibilidade;;;True
+23;33;Desenho universal e acessibilidade;;;True
+24;34;PatrimÃ´nio cultural e tÃ©cnicas retrospectivas;;;True
+25;35;InformÃ¡tica aplicada a Arquitetura e Urbanismo;;;True
+26;36;GestÃ£o e coordenaÃ§Ã£o de projetos;InformÃ¡tica aplicada a arquitetura e urbanismo;;True
+27;37;Topografia;;;True
+28;38;Estudos sociais, econÃ´micos e ambientais;Projeto de arquitetura;;True
